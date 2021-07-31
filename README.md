@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TJohn00
 - 👀 I’m interested in learning languages and challenging myself in projects
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring, Ruby on Rails
 - 📫 How to reach me https://www.linkedin.com/in/tbenjohnson/
 
 <!---
